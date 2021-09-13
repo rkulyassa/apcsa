@@ -1,5 +1,5 @@
 /**
- * Face
+ * Print face
  * 
  * @author Ryan Kulyassa
  * @date 9/9
