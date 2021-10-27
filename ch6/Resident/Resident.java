@@ -34,7 +34,7 @@ public class Resident
     
     public void setCitizenStatus(boolean isUSCitizen) {
         this.isUSCitizen = isUSCitizen;
-        canVote = age >= 18 && isUSCitizen;
+        canVote = age >= 18 && isUSCitizen;-
     }
 
     public void setMaritalStatus(boolean married) {
